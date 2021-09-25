@@ -9,10 +9,10 @@ A fairly standard metric that is used both in CeFi and DeFi world. You can calcu
 
 IMG 120 M
 
-_Sources for analysing MarketCap:
-https://www.tradingview.com/markets/cryptocurrencies/global-charts/ 
+_Sources for analysing MarketCap: _
+https://www.tradingview.com/markets/cryptocurrencies/global-charts/
 https://coinmarketcap.com/
-_
+
 
 ### Market Cap by Value Settled (MC/VS)
 Stocks have an important P/E ratio which is basically a price of stock divided by earnings per one stock. You can get the same ratio if you divide the market cap with total earnings. P/E ratio is traditionally used to anaylze the undervaluation or overvaluation of one asset. A high P/E ratio means that a stock is overvalued (or that investors are expecting high growth rates in the future).
@@ -21,6 +21,5 @@ This kind of analysis is not possible with crypto tokens as blockchain systems d
 
 Problem with value settlement is that it is difficult to calculate in the crypto world as not all chains have smart contracts and DeFi layers. Nonetheless, it is the closest metric to the important P/E ratio.
 
-_Sources for analyzing Value Settled:
+_Sources for analyzing Value Settled: _
 https://money-movers.info/ 
-_
