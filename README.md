@@ -7,7 +7,7 @@ The goal of this repo is to analyze and watch over possible cryptocurrency metri
 ## Market Caps (MC or FDMC)
 A fairly standard metric that is used both in CeFi and DeFi world. You can calculate it by multiplying the current price of the asset with the current circulating supply. The trouble starts when you want to calculate the fully diluted market cap (__FDMC__) which takes total possible supply into account. As you guessed, this is fairly straightforward for BTC which is 21M, but rather complex for ETH where there are several current analyses given the EIP-1599 and the future 2022 merge.
 
-IMG 120 M
+https://github.com/KresimirKoncicNeuralab/crypto-investment-metrics/blob/main/eth-120M-Total-Supply.png
 
 _Sources for analysing MarketCap_
 
