@@ -5,9 +5,17 @@ Stocks, bonds and similar traditional (CeFi) asset classes have tremendous amoun
 The goal of this repo is to analyze and watch over possible cryptocurrency metrics and to shed a light on undervaluation and overvaluation on chosen tokens.
 
 ## Market Caps (MC or FDMC)
-A fairly standard metric that is used both in CeFi and DeFi world. You can calculate it by multiplying the current price of the asset with the current circulating supply. The trouble starts when you want to calculate the fully diluted market cap (__FDMC__) which takes total possible supply into account. As you guessed, this is fairly straightforward for BTC which is 21M, but rather complex for ETH where there are several current analyses given the EIP-1599 and the future 2022 merge.
+A fairly standard metric that is used both in CeFi and DeFi world. You can calculate it by multiplying the current price of the asset with the current circulating supply. The trouble starts when you want to calculate the fully diluted market cap (__FDMC__) which takes total possible supply into account. As you guessed, this is fairly straightforward for BTC which is 21M, but rather complex for ETH where there are several current analyses given the EIP-1599 and the future 2022 merge. One of them is Justin Drake's ETH suply analysis which predicts peak supply to roughly 120M. Keep note that ETH supply could go to lower numbers as per the burning fees process.
 
 [![Justin Drake's updated ETH sdupply projections](https://github.com/KresimirKoncicNeuralab/crypto-investment-metrics/blob/main/eth-120M-Total-Supply.png)](https://twitter.com/drakefjustin/status/1424039388548321283?s=20)
+
+Here are some MC and FDMC metrics on 26th of Sep 2021
+
+| Token         | Price (USD)   | Market Cap (MC) | Fully Diluted Market Cap (FDMC) |
+| ------------- |:-------------:| ---------------:|---------------:|
+| BTC           | $ 43,217      | $ 813B          |   $  907B          |
+| ETH           | $ 3008        | $ 352B          |   $  361B          |
+| ADA           | $ 2.26        | $  72B          |   $  102B          |
 
 _Sources for analysing MarketCap_
 
