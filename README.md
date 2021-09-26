@@ -42,8 +42,15 @@ _Sources for analyzing Value Settled_
 https://money-movers.info/ 
 
 TODO
+
 Fees
+
 MC/Fees
+
 Volatility
+
 Pos ratio
+
 Stakers
+
+Price / Sales
