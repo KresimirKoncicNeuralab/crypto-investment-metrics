@@ -18,9 +18,7 @@ Here are some MC and FDMC metrics on 26th of Sep 2021
 | ADA           | $ 2.26        | $  72 B          |   $  102 B          |
 
 _Sources for analysing MarketCap_
-
 https://www.tradingview.com/markets/cryptocurrencies/global-charts/
-
 https://coinmarketcap.com/
 
 
@@ -40,7 +38,6 @@ Problem with value settlement is that it is difficult to calculate in the crypto
 Basically, this ratio states that ETH has a potential to grow to **17,174 USD** in market value if it reaches BTC's MC/VS of 70. In other terms this is (70/12.26) * 352B = 2T USD of MC ETH value.
 
 _Sources for analyzing Value Settled_
-
 https://money-movers.info/ 
 
 
@@ -56,21 +53,14 @@ Problem with fees settlement is that fees and their part in DeFi layers are comp
 | ADA           | $ 0.038 M        | $  0.072 T          |   1.8947          |
 
 
+_Sources for analyzing Fees Settled_
+https://cryptofees.info/
 
 **TODO**
 
 Lindy effect
-
 Gini coefficient
-
-Fees
-
-MC/Fees
-
 Volatility
-
 Pos ratio
-
 Stakers
-
 Price / Sales
