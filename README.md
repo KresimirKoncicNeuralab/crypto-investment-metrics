@@ -2,7 +2,7 @@
 
 Stocks, bonds and similar traditional (CeFi) asset classes have tremendous amounts of metrics or tools at their disposal. On the other hand, it is fairly difficult to grasp valuation, price predictability and various ratios in the crypto world. 
 
-The goal of this repo is to analyze and watch over possible cryptocurrency metrics and to shed a light on undervaluation and overvaluation on chosen tokens.
+The goal of this repo is to analyze and watch over possible cryptocurrency metrics and to shed a light on undervaluation and overvaluation on chosen tokens. For example, I will analyze possible ETH value based on similar token's metrics.
 
 ## Market Caps (MC or FDMC)
 A fairly standard metric that is used both in CeFi and DeFi world. You can calculate it by multiplying the current price of the asset with the current circulating supply. The trouble starts when you want to calculate the fully diluted market cap (__FDMC__) which takes total possible supply into account. As you guessed, this is fairly straightforward for BTC which is 21M, but rather complex for ETH where there are several current analyses given the EIP-1559 and the future 2022 merge. One of these papers is Justin Drake's ETH suply analysis which predicts peak supply to roughly 120M. Keep note that ETH supply could go to lower numbers as per the burning fees process.
@@ -37,11 +37,17 @@ Problem with value settlement is that it is difficult to calculate in the crypto
 | ETH           | $ 28.7 B        | $ 352 B          |   12.26         |
 | XRP           | $ 0.96 B        | $  44 B          |   45.83          |
 
+Basically, this ratio states that ETH has a potential to grow to **16,748 USD** in market value. In other terms this is (70/12.26) * 352B = 2T USD of MC ETH value.
+
 _Sources for analyzing Value Settled_
 
 https://money-movers.info/ 
 
-TODO
+**TODO**
+
+Lindy effect
+
+Gini coefficient
 
 Fees
 
