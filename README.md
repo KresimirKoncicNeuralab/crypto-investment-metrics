@@ -43,6 +43,20 @@ _Sources for analyzing Value Settled_
 
 https://money-movers.info/ 
 
+
+## Market Cap by Fees Settled (MC/FS)
+Fees are an indication of economic activity and they can be used to analyze usage of various blockchains. Total fees can be a strong indicator for which protocols have actual economic activity behind them. i.e. *"Which blockchains are people actually paying to use?"*
+
+Problem with fees settlement is that fees and their part in DeFi layers are complex and not-streightfoward topics. You should take this ratio as more of an experimentation than actual objective metric.
+
+| Token         | Fees settled (USD, 7 day avg)   | Market Cap (MC) | MC / FS |
+| ------------- |:-------------:| ---------------:|---------------:|
+| BTC           | $ 0.817 M     | $ 0.813 T          |   0.9951         |
+| ETH           | $ 37 M        | $ 0.352 T          |   0.00951         |
+| ADA           | $ 0.038 M        | $  0.072 T          |   1.8947          |
+
+
+
 **TODO**
 
 Lindy effect
