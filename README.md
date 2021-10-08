@@ -37,7 +37,7 @@ Problem with value settlement is that it is difficult to calculate in the crypto
 | ETH           | $ 28.7 B        | $ 352 B          |   12.26         |
 | XRP           | $ 0.96 B        | $  44 B          |   45.83          |
 
-Basically, this ratio states that ETH has a potential to grow to **16,748 USD** in market value. In other terms this is (70/12.26) * 352B = 2T USD of MC ETH value.
+Basically, this ratio states that ETH has a potential to grow to **17,174 USD** in market value if it reaches BTC's MC/VS of 70. In other terms this is (70/12.26) * 352B = 2T USD of MC ETH value.
 
 _Sources for analyzing Value Settled_
 
