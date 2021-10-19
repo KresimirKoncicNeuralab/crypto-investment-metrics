@@ -70,11 +70,15 @@ The concept is named after Lindy's delicatessen in New York City, where the conc
 
 In this example, we see that the bigest potential lies within Cardano (ADA) as it's currently underperforming in price / market cap domain. On the other hand, if ETH reaches BTC's MC/LE ratio of 7.653, it would mean that the MC of Ethereum could be 566.32 B USD (that means that the price of ETH has a potential to rise roughly to 4.800 USD only on this account). As with fees, I don't think this metric is usefull as **MC/VS** ratio as Lindy effect does not generally explain the usage, quality and current workings of one blockchain (as value settled does).
 
-**TODO**
+## Market Cap by number of Stakers (MC/NS)
 
+We will look at the number of validators on mainstream PoS chains like Ethereum, Polkadot and Cardano to see how do number of stakers that are securing the chain is stacked up against the market cap. We cannot use this ratio to anaylze prices, but it's a fairly good metric to analyze market impact (MC) VS chain security issues (NS). Bitcoin network is excluded from this analysis of course due to tis PoW hashcash algo.
 
-Gini coefficient
-Volatility
-Pos ratio
-Stakers
-Price / Sales
+| Token         | Number of stakers   | Market Cap (MC) | Market Cap by number of stakers (MC/NS) [low is better] |
+| ------------- |:-------------:| ---------------:|---------------:|
+| DOT (Polkadot)           | 297      | $ 40 B          |   0.1346          |
+| ETH (Ethereum)           | 249,081        | $ 447 B          |   0.00179          |
+| ADA (Cardano)          | 2,076        | $  69 B          |   0.03323          |
+
+_Sources for analyzing number of stakers_
+https://stakers.info/
