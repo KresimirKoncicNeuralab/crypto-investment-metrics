@@ -44,7 +44,7 @@ https://money-movers.info/
 ## Market Cap by Fees Settled (MC/FS)
 Fees are an indication of economic activity and they can be used to analyze usage of various blockchains. Total fees can be a strong indicator for which protocols have actual economic activity behind them. i.e. *"Which blockchains are people actually paying to use?"*
 
-Problem with fees settlement is that fees and their part in DeFi layers are complex and not-streightfoward topics. You should take this ratio as more of an experimentation than actual objective metric. By this account, ETH could be valued at roughly 100x more than the current price, but as I wrote earlier, **fees alone** are not the only indicator of ptoential market value
+Problem with fees settlement is that fees and their part in DeFi layers are complex and not-streightfoward topics. You should take this ratio as more of an experimentation than actual objective metric. For instance, ETH could be valued at roughly 100x more than the current price, but as I wrote earlier, **fees alone** are not the only indicator of potential market value
 
 | Token         | Fees settled (USD, 7 day avg)   | Market Cap (MC) | MC / FS |
 | ------------- |:-------------:| ---------------:|---------------:|
@@ -56,9 +56,23 @@ Problem with fees settlement is that fees and their part in DeFi layers are comp
 _Sources for analyzing Fees Settled_
 https://cryptofees.info/
 
+## Market Cap by Lindy Effect (MC/LE)
+
+Added and modified from Wikipedia... *The Lindy effect (also known as Lindy's Law) is a theorized phenomenon by which the future life expectancy of a blockchain, is proportional to their current age. Thus, the Lindy effect proposes the longer a period something has survived to exist or be used in the present, it is also likely to have a longer remaining life expectancy. Longevity implies a resistance to change, obsolescence or competition and greater odds of continued existence into the future.*
+
+The concept is named after Lindy's delicatessen in New York City, where the concept was informally theorized by comedians. We will use it to anaylze Market Cap to Lindy effect ratio on three popular blockchains and to see how they stack up (on 19th of Oct 2021)...
+
+| Token         | Age (months)   | Market Cap (MC) | Market Cap by Lindy (MC/LE) |
+| ------------- |:-------------:| ---------------:|---------------:|
+| BTC           | 153      | $ 1171 B          |   7.653          |
+| ETH           | 74        | $ 447 B          |   6.04          |
+| ADA           | 48        | $  69 B          |   1.437          |
+
+In this example, we see that the bigest potential lies within Cardano (ADA) as it's currently underperforming in price / market cap domain. On the other hand, if ETH reaches BTC's MC/LE ratio of 7.653, it would mean that the MC of Ethereum could be 566.32 B USD (that means that the price of ETH has a potential to rise roughly to 4.800 USD only on this account). As with fees, I don't think this metric is usefull as **MC/VS** ratio as Lindy effect does not generally explain the usage, quality and current workings of one blockchain (as value settled does).
+
 **TODO**
 
-Lindy effect
+
 Gini coefficient
 Volatility
 Pos ratio
