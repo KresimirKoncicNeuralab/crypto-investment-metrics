@@ -1,8 +1,8 @@
-# crypto-investment-metrics
+# A case for 20K Ethereum price tag (crypto investment metrics)
 
 Stocks, bonds and similar traditional (CeFi) asset classes have tremendous amounts of metrics or tools at their disposal. On the other hand, it is fairly difficult to grasp valuation, price predictability and various ratios in the crypto world. 
 
-The goal of this repo is to analyze and watch over possible cryptocurrency metrics and to shed a light on undervaluation and overvaluation on chosen tokens. For example, I will analyze possible ETH value based on similar token's metrics.
+The goal of this repo is to analyze and watch over possible cryptocurrency metrics and to shed a light on undervaluation and overvaluation of various tokens. For example, I will analyze possible ETH value based on similar token's metrics.
 
 ## Market Caps (MC or FDMC)
 A fairly standard metric that is used both in CeFi and DeFi world. You can calculate it by multiplying the current price of the asset with the current circulating supply. The trouble starts when you want to calculate the fully diluted market cap (__FDMC__) which takes total possible supply into account. As you guessed, this is fairly straightforward for BTC which is 21M, but rather complex for ETH where there are several current analyses given the EIP-1559 and the future 2022 merge. One of these papers is Justin Drake's ETH suply analysis which predicts peak supply to roughly 120M. Keep note that ETH supply could go to lower numbers as per the burning fees process.
@@ -44,7 +44,7 @@ https://money-movers.info/
 ## Market Cap by Fees Settled (MC/FS)
 Fees are an indication of economic activity and they can be used to analyze usage of various blockchains. Total fees can be a strong indicator for which protocols have actual economic activity behind them. i.e. *"Which blockchains are people actually paying to use?"*
 
-Problem with fees settlement is that fees and their part in DeFi layers are complex and not-streightfoward topics. You should take this ratio as more of an experimentation than actual objective metric.
+Problem with fees settlement is that fees and their part in DeFi layers are complex and not-streightfoward topics. You should take this ratio as more of an experimentation than actual objective metric. By this account, ETH could be valued at roughly 100x more than the current price, but as I wrote earlier, **fees alone** are not the only indicator of ptoential market value
 
 | Token         | Fees settled (USD, 7 day avg)   | Market Cap (MC) | MC / FS |
 | ------------- |:-------------:| ---------------:|---------------:|
