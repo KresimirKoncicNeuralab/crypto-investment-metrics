@@ -1,4 +1,4 @@
-# A case for 20K Ethereum price tag (crypto investment metrics)
+# A case for 18K Ethereum price tag (crypto investment metrics)
 
 Stocks, bonds and similar traditional (CeFi) asset classes have tremendous amounts of metrics or tools at their disposal. On the other hand, it is fairly difficult to grasp valuation, price predictability and various ratios in the crypto world. 
 
@@ -72,7 +72,7 @@ In this example, we see that the bigest potential lies within Cardano (ADA) as i
 
 ## Market Cap by number of Stakers (MC/NS)
 
-We will look at the number of validators on mainstream PoS chains like Ethereum, Polkadot and Cardano to see how do number of stakers that are securing the chain is stacked up against the market cap. We cannot use this ratio to anaylze prices, but it's a fairly good metric to analyze market impact (MC) VS chain security issues (NS). Bitcoin network is excluded from this analysis of course due to tis PoW hashcash algo.
+We will look at the number of validators on mainstream PoS chains like Ethereum, Polkadot and Cardano to see how do number of stakers that are securing the chain is stacked up against the market cap. We cannot use this ratio to anaylze prices, but it's a fairly good metric to analyze market impact (MC) VS chain security issues (NS). Bitcoin network is excluded from this analysis of course due to its PoW hashcash algo.
 
 | Token         | Number of stakers   | Market Cap (MC) | Market Cap by number of stakers (MC/NS) [low is better] |
 | ------------- |:-------------:| ---------------:|---------------:|
